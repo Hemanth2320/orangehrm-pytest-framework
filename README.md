@@ -20,7 +20,7 @@ I used Selenium with Python and Pytest Hybrid Framework. This project helped me 
 
 ---
 
-## 🔧 Tools and Technologies
+##  Tools and Technologies
 
 - Python
 - Selenium WebDriver
